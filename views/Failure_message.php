@@ -1,0 +1,1 @@
+<script type="text/javascript">alert(`Process Failed with message: "<?php echo $FAILURE_MESSAGE ?>"`);</script>

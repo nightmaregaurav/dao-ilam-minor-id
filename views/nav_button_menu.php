@@ -1,0 +1,1 @@
+<a class="btn btn-danger d-lg-inline-block m-2 my-md-0 ms-md-3" href="/logout.php" style="font-weight: 600;">Logout</a>
